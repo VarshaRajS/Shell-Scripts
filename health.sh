@@ -10,5 +10,5 @@ free -h
 echo -e "\nCPU Load"
 uptime
 
-cho -e "running processes:"
+echo -e "running processes:"
 ps aux | head -n 10
